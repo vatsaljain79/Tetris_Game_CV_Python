@@ -45,7 +45,11 @@ You also need a webcam to play the game.
 
 ## Screenshots
 
-Here are some screenshots of the game in action (add screenshots here).
+Here are some screenshots of the game in action.
+![image](https://github.com/user-attachments/assets/5c0baaba-896d-4487-8fe2-ee2881147b6c)
+
+![image](https://github.com/user-attachments/assets/0ccee572-799f-4f22-8b05-50f5e0d13f64)
+
 
 ## Customization
 
